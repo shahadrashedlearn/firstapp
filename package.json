@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gitsalab/firstapp/issues"
   },
-  "homepage": "https://github.com/gitsalab/firstapp#readme"
+  "homepage": "https://github.com/gitsalab/firstapp#readme",
+  "dependencies": {
+    "bitwise": "^2.0.4"
+  }
 }
