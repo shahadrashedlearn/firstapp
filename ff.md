@@ -3,9 +3,21 @@
 
 ## GETTING GIT ON A SERVER
 
+</br></br>
 
-سنتكلم الان عن اعداد خدمة git على server خاص بك. مبدئيا عليك القيام بتصدير repository الموجود لديك الى bare repository اخر جديد وهي عملية بسيطه يمكنك تنفيذها باستخدام امر `clone` مع الخيار (bare - - ) حيث يكون امتداد repository الجديد .git 
-
+سنتكلم الان عن اعداد خدمة git على server خاص بك. مبدئيا عليك القيام بتصدير repository الموجود لديك الى bare repository اخر جديد وهي عملية بسيطه يمكنك تنفيذها باستخدام امر `clone` مع الخيار (bare - - ) حيث يكون امتداد repository الجديد git. 
+</br>
 مثال 
+
+<div dir="ltr" align="left">
+
+```
+% git clone --bare gitcommand gitcommand.git
+Cloning into bare repository 'gitcommand.git'...
+done.
+
+```
+</div>
+
 
 </div>
