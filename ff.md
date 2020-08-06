@@ -29,7 +29,7 @@ done.
 الان بعد ان اصبح لديك نسخة bare repository كل ماعليك هو وضعها على server الخاص بك واعداد البروتوكولاتك .
 
 </br>
-مثال لنفترض الان انك قمت باعداد server يسمى لgit.example.com ويمكنك الدخول اليه باستخدام SSH،وتريد تخزين git repositories داخل  project/git  المخزن داخل server 
+مثال لنفترض الان انك قمت باعداد server يسمى git.example.com ويمكنك الدخول اليه باستخدام SSH،وتريد تخزين git repositories داخل  project/git  المخزن داخل server 
 <div dir="ltr" align="left">
 
 ```
